@@ -1,7 +1,5 @@
 ### Hugo .gitignore ###
 ###
-### INSTRUCTIONS: Rename this file to .gitignore and place at
-### top of your project structure
 
 # Executable may be added to repository
 hugo.exe
